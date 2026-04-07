@@ -1,0 +1,57 @@
+Firmable Service Level Agreement (SLA) — Summary Document
+===========================================================
+Version 3.1 | Effective: February 2024
+
+1. UPTIME COMMITMENTS
+----------------------
+- Starter Plan:    99.5% monthly uptime
+- Pro Plan:        99.7% monthly uptime
+- Enterprise Plan: 99.9% monthly uptime
+
+Uptime is calculated as: (total minutes - downtime minutes) / total minutes × 100
+Scheduled maintenance windows (Sundays 2–4 AM UTC) are excluded from downtime calculations.
+
+2. INCIDENT RESPONSE TIMES
+---------------------------
+Priority 1 (Platform down, no workaround):
+  - Starter:    8 business hours
+  - Pro:        4 business hours
+  - Enterprise: 1 hour (24/7)
+
+Priority 2 (Major feature degraded):
+  - Starter:    2 business days
+  - Pro:        1 business day
+  - Enterprise: 4 hours
+
+Priority 3 (Minor issue, workaround available):
+  - All plans:  3-5 business days
+
+3. SLA CREDITS
+---------------
+If Firmable fails to meet the uptime SLA in any given month:
+- 99.0–99.5% actual uptime: 5% credit of that month's invoice
+- 98.0–98.9% actual uptime: 10% credit of that month's invoice
+- Below 98.0%:              25% credit of that month's invoice
+
+Credits are applied to the next invoice. Credits are the sole remedy for SLA breaches and are not redeemable for cash. Maximum credit in any month is capped at 25% of that month's invoice.
+
+4. DATA FRESHNESS SLA
+----------------------
+- B2B Contact Database: refreshed every 30 days
+- Technographics data: refreshed every 60 days
+- Custom enrichment pipelines (Enterprise): refreshed per contract terms (typically weekly)
+
+5. SUPPORT CHANNELS
+--------------------
+- Starter:    Email only — support@firmable.com
+- Pro:        Email + in-app chat
+- Enterprise: Email + chat + dedicated phone line + Slack Connect channel
+
+6. EXCLUSIONS
+--------------
+SLA does not apply to:
+- Force majeure events
+- Issues caused by customer's infrastructure
+- Third-party API failures outside Firmable's control
+- Free trial periods
+- Beta features (clearly marked in product)

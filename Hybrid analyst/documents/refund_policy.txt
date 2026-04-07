@@ -1,0 +1,28 @@
+Firmable Refund and Cancellation Policy
+========================================
+Effective Date: January 1, 2024
+
+1. OVERVIEW
+Firmable offers a 30-day money-back guarantee for all new Starter and Pro plan subscriptions. Enterprise customers are governed by their individual contracts and do not fall under this general refund policy.
+
+2. ELIGIBLE REFUNDS
+- Starter Plan: Full refund within 30 days of initial purchase, no questions asked.
+- Pro Plan: Full refund within 30 days of initial purchase. Partial refunds (pro-rated) may be issued between day 31 and day 60 at Firmable's discretion.
+- Add-on purchases (e.g., Export Credits, CRM Integration Packs): Non-refundable once credits have been consumed or the integration has been activated.
+- Custom Data Models: Non-refundable after work has commenced (typically within 5 business days of purchase).
+
+3. CANCELLATION PROCESS
+Customers may cancel their subscription at any time through the account settings dashboard under "Billing & Subscriptions". Cancellations take effect at the end of the current billing period. No partial-month refunds are issued for mid-cycle cancellations.
+
+4. EXCEPTIONS
+Refunds will not be issued in the following cases:
+- Violation of Firmable's Terms of Service
+- Fraudulent use of the platform
+- Requests made after the eligible refund window
+- API overuse or abuse
+
+5. HOW TO REQUEST A REFUND
+Email billing@firmable.com with your account email and order ID. Processing takes 5-10 business days. Refunds are returned to the original payment method.
+
+6. ENTERPRISE CONTRACTS
+Enterprise customers should refer to Section 8 of their Master Service Agreement (MSA) for refund and SLA credit terms. Enterprise SLA credits are capped at 10% of the monthly invoice and are applied as account credits, not cash refunds.

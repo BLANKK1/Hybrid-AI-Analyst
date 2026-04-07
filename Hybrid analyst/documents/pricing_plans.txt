@@ -1,0 +1,56 @@
+Firmable Pricing and Plans — Internal Reference Guide
+======================================================
+Last Updated: March 2024
+
+PLAN OVERVIEW
+--------------
+
+STARTER PLAN — $299/month
+- Up to 1,000 API calls per month
+- Access to B2B Contact Database (read-only)
+- Email support (48-hour SLA)
+- 1 user seat
+- Data exports: 500 records/month
+- No custom integrations
+
+PRO PLAN — $799/month
+- Up to 10,000 API calls per month
+- Full B2B Contact Database access (read + write enrichment)
+- Priority email + chat support (12-hour SLA)
+- Up to 5 user seats
+- Data exports: 5,000 records/month
+- CRM Integration Pack included (Salesforce, HubSpot)
+- Analytics Dashboard included
+
+ENTERPRISE PLAN — Custom Pricing (typically $8,000–$20,000/month)
+- Unlimited API calls (fair use policy applies)
+- Dedicated data enrichment pipeline
+- 24/7 phone + dedicated account manager
+- Unlimited user seats
+- Unlimited data exports
+- All add-ons included
+- Custom Data Model development
+- SLA: 99.9% uptime guarantee with 4-hour incident response
+- SSO + advanced security features
+- Annual contracts only
+
+ADD-ONS (available to all plans)
+----------------------------------
+- Export Credits (1,000 records): $99 one-time
+- Technographics Module: $249/month
+- Priority Support Upgrade (for Starter): $199/month
+- Custom Data Model: $999 one-time per model
+
+VOLUME DISCOUNTS
+----------------
+Annual prepay discounts:
+- Starter: 10% off
+- Pro: 15% off
+- Enterprise: Negotiated per contract (typically 10-25% off)
+
+NOTES FOR SALES TEAM
+---------------------
+- Enterprise deals below $8,000/month require VP approval
+- Trials: 14-day free trial available for Starter and Pro only
+- Grandfathered customers (pre-2023) on legacy pricing are exempt from 2024 price changes
+- Partner/reseller discounts: 20% off list price, not stackable with other discounts

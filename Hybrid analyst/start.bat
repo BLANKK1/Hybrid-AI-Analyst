@@ -1,0 +1,3 @@
+@echo off
+echo Starting Hybrid AI Analyst...
+uvicorn server:app --reload --port 8000

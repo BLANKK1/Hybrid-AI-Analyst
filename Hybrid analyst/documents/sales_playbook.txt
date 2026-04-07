@@ -1,0 +1,68 @@
+Firmable Sales Playbook — Q1 2024
+==================================
+Confidential — Internal Use Only
+
+IDEAL CUSTOMER PROFILE (ICP)
+------------------------------
+Primary:
+- B2B SaaS companies, 50–500 employees
+- Revenue operations or growth teams with >2 people
+- Currently using manual prospecting or a legacy data vendor (ZoomInfo, Apollo)
+- Budget: $5,000–$50,000/year for data infrastructure
+
+Secondary:
+- Financial services firms needing compliance-safe B2B data
+- Staffing/recruitment agencies
+- Management consultancies
+
+RED FLAGS (do not pursue):
+- Pure B2C companies
+- Companies with <10 employees (cannot support Enterprise)
+- Prospects who want one-time data dumps only
+
+COMPETITIVE POSITIONING
+------------------------
+vs. ZoomInfo:
+- Firmable has fresher data (30-day refresh vs. ZoomInfo's 60–90 day)
+- Firmable is ~40% cheaper at equivalent tiers
+- Weakness: smaller total contact database volume
+
+vs. Apollo:
+- Firmable has better API reliability (99.9% vs Apollo's ~98.5%)
+- Firmable has stronger technographics
+- Weakness: Apollo has a larger free tier that creates pipeline
+
+vs. Clearbit:
+- Firmable covers APAC and South Asia significantly better
+- Clearbit stronger in North American enterprise logos
+
+OBJECTION HANDLING
+-------------------
+"Your database is smaller than ZoomInfo."
+→ "Smaller but more accurate. Our 30-day refresh cycle means fewer bounced emails and bad dials. Most teams care more about quality than volume."
+
+"We're locked into a ZoomInfo contract."
+→ "We can structure an annual deal that starts at your renewal date. Pilot on a department while your ZoomInfo runs out."
+
+"It's too expensive."
+→ Offer 14-day trial + move to annual pricing to unlock 15% discount. If still stuck, escalate to manager for a custom pilot at 50% for 3 months.
+
+DEAL STAGES
+------------
+1. Discovery (target: 1 call, 30 min)
+2. Demo (target: 1 call, 45 min — use live data enrichment demo)
+3. Technical Review (optional, for Enterprise — involve Solutions Engineer)
+4. Proposal + Negotiation
+5. Contract + Close
+
+Average sales cycle:
+- Starter → Pro upsell: 7 days
+- New Pro: 21 days
+- New Enterprise: 45–90 days
+
+QUOTA AND COMMISSION
+---------------------
+- Reps are on 50/50 base/variable split
+- Commission: 8% of ARR for new logos, 4% for expansions
+- Accelerators: 12% commission for deals >120% of quarterly quota
+- Clawback: 100% if customer churns within 90 days
